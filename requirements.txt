@@ -1,6 +1,10 @@
 # requirements.txt
-
 streamlit==1.32.0
+streamlit
 matplotlib
 numpy
+scipy
 pandas
+seaborn
+scipy
+control
